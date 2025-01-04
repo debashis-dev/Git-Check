@@ -15,8 +15,4 @@ public class MyController {
 	public String Check(){
 		return "My Name";
 	}
-
-	public void debashis(){
-		System.out.println("Hiiiii Deb");
-	}
 }
