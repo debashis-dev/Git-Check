@@ -15,8 +15,9 @@ public class MyController {
 	public String Check(){
 		return "My Name";
 	}
-
-	public String getChangedMethod(){
-		return "Get Changed Method";
+	
+	@GetMapping("/Mdeba")
+	public void myChanges() {
+		System.out.println("Changes...");
 	}
 }
