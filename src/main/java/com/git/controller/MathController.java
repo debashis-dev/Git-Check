@@ -20,4 +20,8 @@ public class MathController {
     public void mod(){
         System.out.println("Mod");
     }
+
+	public void avg() {
+		System.out.println("Average");
+	}
 }
