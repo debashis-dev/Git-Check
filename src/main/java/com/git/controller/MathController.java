@@ -28,5 +28,9 @@ public class MathController {
 	public void bin() {
 		System.out.println("Binary");
 	}
+
+    public  void dec(){
+        System.out.println("Decimal");
+    }
 }
 
