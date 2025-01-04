@@ -10,4 +10,9 @@ public class MyController {
 	public String my() {
 		return "My...";
 	}
+
+	@GetMapping("/check")
+	public String Check(){
+		return "Checked....";
+	}
 }
