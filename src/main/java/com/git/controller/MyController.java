@@ -17,6 +17,6 @@ public class MyController {
 	}
 
 	public String get(){
-		return "Get";
+		return "Get Changed";
 	}
 }
