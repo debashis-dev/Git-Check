@@ -1,0 +1,11 @@
+package com.git.controller;
+
+public class MathController {
+    public void add(){
+        System.out.println("Add");
+    }
+
+    public void sub(){
+        System.out.println("Sub");
+    }
+}
