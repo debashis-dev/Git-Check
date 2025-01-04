@@ -8,4 +8,12 @@ public class MathController {
     public void sub(){
         System.out.println("Sub");
     }
+
+	public void mul() {
+		System.out.println("Mul");
+	}
+
+	public void div() {
+		System.out.println("Div");
+	}
 }
