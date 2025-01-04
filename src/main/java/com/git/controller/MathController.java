@@ -13,12 +13,16 @@ public class MathController {
 		System.out.println("Mul");
 	}
 
-	public void div() {
+	public void des() {
         System.out.println("Div");
     }
 
     public void per(){
         System.out.println("Percentage");
+    }
+
+    public void checkMe() {
+    	System.err.println("dfvbkf");
     }
 }
 
