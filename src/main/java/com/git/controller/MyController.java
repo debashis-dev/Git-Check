@@ -17,7 +17,7 @@ public class MyController {
 	}
 	
 	@GetMapping("/Mdeba")
-	public void deba() {
-		System.out.println("Hello");
+	public void myChanges() {
+		System.out.println("Changes...");
 	}
 }
