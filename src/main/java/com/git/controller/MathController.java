@@ -25,3 +25,4 @@ public class MathController {
 		System.out.println("Average");
 	}
 }
+
