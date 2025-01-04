@@ -16,4 +16,8 @@ public class MathController {
 	public void div() {
         System.out.println("Div");
     }
+	
+	public void avg() {
+		System.out.println("Average");
+	}
 }
