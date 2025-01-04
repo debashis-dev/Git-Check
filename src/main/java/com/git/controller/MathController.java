@@ -13,7 +13,7 @@ public class MathController {
 		System.out.println("Mul");
 	}
 
-	public void des() {
+	public void div() {
         System.out.println("Div");
     }
 
@@ -27,6 +27,10 @@ public class MathController {
 
     public void main(){
         System.out.println("Ok");
+    }
+
+    public void ok() {
+    	System.out.println("Ok");
     }
 }
 
