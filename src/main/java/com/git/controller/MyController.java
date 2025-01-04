@@ -16,7 +16,7 @@ public class MyController {
 		return "My Name";
 	}
 
-	public String getChanged(){
-		return "Get Changed";
+	public String getChangedMethod(){
+		return "Get Changed Method";
 	}
 }
