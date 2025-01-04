@@ -15,4 +15,9 @@ public class MyController {
 	public String Check(){
 		return "My Name";
 	}
+	
+	@GetMapping("/Mdeba")
+	public void deba() {
+		System.out.println("Hello");
+	}
 }
