@@ -20,4 +20,8 @@ public class MyController {
 	public void myChanges() {
 		System.out.println("Changes...");
 	}
+	
+	public void myCheck() {
+		System.out.println("Checked...");
+	}
 }
