@@ -24,13 +24,6 @@ public class MathController {
 	public void avg() {
 		System.out.println("Average");
 	}
-	
-	public void bin() {
-		System.out.println("Binary");
-	}
 
-    public  void dec(){
-        System.out.println("Decimal");
-    }
 }
 
