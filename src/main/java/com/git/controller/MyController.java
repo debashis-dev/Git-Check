@@ -6,30 +6,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MyController {
 
-	@GetMapping("/my")
-	public String my() {
-		return "My...";
-	}
-
-	@GetMapping("/check")
-	public String Check(){
-		return "My Name";
-	}
 	
-	@GetMapping("/Mdeba")
-	public void myChanges() {
-		System.out.println("Changes...");
-	}
-	
-	public void myCheck() {
-		System.out.println("Checked...");
-	}
-	
-	public void add() {
-		System.out.println("Add Method...");
-	}
-	
-	public void sub() {
-		System.out.println("Subtract...");
-	}
 }
