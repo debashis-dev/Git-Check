@@ -24,5 +24,9 @@ public class MathController {
     public void checkMe() {
     	System.err.println("dfvbkf");
     }
+
+    public void main(){
+        System.out.println("Ok");
+    }
 }
 
