@@ -17,13 +17,8 @@ public class MathController {
         System.out.println("Div");
     }
 
-    public void mod(){
-        System.out.println("Mod");
+    public void per(){
+        System.out.println("Percentage");
     }
-
-	public void avg() {
-		System.out.println("Average");
-	}
-
 }
 
