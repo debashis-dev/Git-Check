@@ -13,7 +13,7 @@ public class MathController {
 		System.out.println("Mul");
 	}
 
-	public void div() {
+	public void des() {
         System.out.println("Div");
     }
 
@@ -23,6 +23,10 @@ public class MathController {
 
 	public void avg() {
 		System.out.println("Average");
+	}
+	
+	public void res() {
+		
 	}
 
 }
