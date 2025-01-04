@@ -14,6 +14,6 @@ public class MathController {
 	}
 
 	public void div() {
-		System.out.println("Div");
-	}
+        System.out.println("Div");
+    }
 }
