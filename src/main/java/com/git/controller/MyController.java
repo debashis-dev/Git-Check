@@ -15,4 +15,8 @@ public class MyController {
 	public String Check(){
 		return "My Name";
 	}
+
+	public String get(){
+		return "Get";
+	}
 }
