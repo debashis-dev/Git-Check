@@ -24,4 +24,12 @@ public class MyController {
 	public void myCheck() {
 		System.out.println("Checked...");
 	}
+	
+	public void add() {
+		System.out.println("Add Method...");
+	}
+	
+	public void sub() {
+		System.out.println("Subtract...");
+	}
 }
