@@ -13,6 +13,6 @@ public class MyController {
 
 	@GetMapping("/check")
 	public String Check(){
-		return "Checked....";
+		return "My Name";
 	}
 }
