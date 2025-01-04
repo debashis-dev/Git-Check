@@ -12,7 +12,7 @@ public class MyController {
 	}
 
 	@GetMapping("/check")
-	public String Check(){
-		return "Checked....";
+	public String CheckMyMethod(){
+		return "Checked My method....";
 	}
 }
