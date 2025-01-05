@@ -34,6 +34,9 @@ public class MathController {
     // Extra
 	public boolean isOk() {
 		return true;
+
+	public int abc() {
+		return 1;
 	}
 }
 
