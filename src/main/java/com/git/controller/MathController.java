@@ -36,7 +36,8 @@ public class MathController {
         return true;
     }
 	public int abc() {
-		return 1;
+        System.out.println(10);
+		return 10;
 	}
 }
 
