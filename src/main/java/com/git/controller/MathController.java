@@ -20,6 +20,10 @@ public class MathController {
     public void my(){
         System.out.println("Mine...");
     }
+
+    public void our(){
+        System.out.println("Ours...");
+    }
 	public void div() {
         System.out.println("Div");
     }
