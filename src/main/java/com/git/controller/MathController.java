@@ -33,8 +33,8 @@ public class MathController {
 
     // Extra
 	public boolean isOk() {
-		return true;
-
+        return true;
+    }
 	public int abc() {
 		return 1;
 	}
