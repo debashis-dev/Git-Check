@@ -31,5 +31,9 @@ public class MathController {
 	public void hello() {
 		System.out.println("Hello");
 	}
+	
+	public void hi() {
+		System.out.println("Hi...");
+	}
 }
 

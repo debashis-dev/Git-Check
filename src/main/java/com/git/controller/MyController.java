@@ -5,7 +5,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MyController {
 
-	public void myCheck() {
+	public void my() {
 		System.out.println("My Check...");
 	}
+	
 }
