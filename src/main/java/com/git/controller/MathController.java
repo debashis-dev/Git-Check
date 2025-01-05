@@ -28,12 +28,8 @@ public class MathController {
         System.out.println("Div");
     }
 	
-	public void hello() {
-		System.out.println("Hello");
-	}
-	
-	public void hi() {
-		System.out.println("Hi...");
+	public boolean isOk() {
+		return true;
 	}
 }
 
