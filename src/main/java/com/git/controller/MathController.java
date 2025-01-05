@@ -16,21 +16,5 @@ public class MathController {
 	public void div() {
         System.out.println("Div");
     }
-
-    public void per(){
-        System.out.println("Percentage");
-    }
-
-    public void checkMe() {
-    	System.err.println("dfvbkf");
-    }
-
-    public void main(){
-        System.out.println("Ok");
-    }
-
-    public void ok() {
-    	System.out.println("Ok");
-    }
 }
 
