@@ -27,5 +27,9 @@ public class MathController {
 	public void div() {
         System.out.println("Div");
     }
+	
+	public void hello() {
+		System.out.println("Hello");
+	}
 }
 
