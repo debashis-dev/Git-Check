@@ -17,19 +17,12 @@ public class MathController {
         System.out.println("Checked...");
     }
 
-    public void my(){
-        System.out.println("Mine...");
-    }
-
-    public void our(){
-        System.out.println("Ours...");
-    }
 	public void div() {
         System.out.println("Div");
     }
 	
-	public boolean isOk() {
-		return true;
+	public int abc() {
+		return 1;
 	}
 }
 
